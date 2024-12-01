@@ -48,5 +48,5 @@ Strengths
 
 ### Career Goals
   
-    I am passionate about software engineering and aspire to build a meaningful career in the IT industry. I thrive in problem-solving environments and am driven to constantly improve my skills and knowledge. I am particularly interested in building my own products with an entrepreneurial mindset, leaving a legacy where I can contribute my lifetime assets to aid the advancement of humanity.
+I am passionate about software engineering and aspire to build a meaningful career in the IT industry. I thrive in problem-solving environments and am driven to constantly improve my skills and knowledge. I am particularly interested in building my own products with an entrepreneurial mindset, leaving a legacy where I can contribute my lifetime assets to aid the advancement of humanity.
   
