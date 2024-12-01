@@ -15,12 +15,6 @@
         GUI Development: Built several software applications using Python.
         Miscellaneous: Experienced in writing scripts and solving technical problems efficiently.
 
-### Languages
-
-    English: Advanced proficiency.
-    Burmese: Native speaker.
-    Korean: Basic level (self-taught).
-
 ### Vision
 
 I believe that knowledge defines who we are. For me, the purpose of life is to explore and acquire knowledge that fuels my creativity and keeps boredom at bay. My ultimate wish is to have a stable and secure life, where I can support my loved ones while diving into the mysteries of the universe—pondering the principles and laws of physics.
@@ -46,8 +40,13 @@ Strengths
     🚢 Shipping & Customer Service: Hands-on experience in logistics and customer relations.
     💻 Typing: Average speed of 60 WPM in both English and Burmese.
 
+### Languages
+
+    English: Advanced proficiency.
+    Burmese: Native speaker.
+    Korean: Basic level (self-taught).    
+
 ### Career Goals
   
-  I am passionate about software engineering and aspire to build a meaningful career in the IT industry. I thrive in problem-solving environments and am driven to constantly improve my skills and knowledge.
-
+    I am passionate about software engineering and aspire to build a meaningful career in the IT industry. I thrive in problem-solving environments and am driven to constantly improve my skills and knowledge. I am particularly interested in building my own products with an entrepreneurial mindset, leaving a legacy where I can contribute my lifetime assets to aid the advancement of humanity.
   
