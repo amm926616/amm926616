@@ -34,7 +34,12 @@ Strengths
 
 ### Work Experience
     
-    🏫 Teaching: I tutored English and taught computer basics to children. I favor an approach that emphasizes intellect and creativity, encouraging abstract thinking and the exploration of ideas with or without real-world examples. My teaching style focuses on delivering the underlying concepts first, inspiring kids to develop a deeper interest in math, science, and the beauty of these subjects. Many of the students I tutored became more passionate about these fields. I take pride in being the kind of teacher who instills curiosity and a love for learning. However, my approach requires active engagement—lazy students who don't want to think won't thrive under my guidance.    💎 Jewelry Craftsmanship: Internship in jewelry design and 3D printing.
+    🏫 Teaching: I tutored English and taught computer basics to children. 
+    I favor an approach that emphasizes intellect and creativity, encouraging abstract thinking and the exploration of ideas with or without real-world examples.
+    My teaching style focuses on delivering the underlying concepts first, inspiring kids to develop a deeper interest in math, science, and the beauty of these subjects.
+    Many of the students I tutored became more passionate about these fields. I take pride in being the kind of teacher who instills curiosity and a love for learning. 
+    However, my approach requires active engagement—lazy students who don't want to think won't thrive under my guidance.    
+    💎 Jewelry Craftsmanship: Internship in jewelry design and 3D printing.
     🏦 Banking: Worked in the Credit Product Management Department at KBZ Bank.
     🚢 Shipping & Customer Service: Hands-on experience in logistics and customer relations.
     💻 Typing: Average speed of 60 WPM in both English and Burmese.
