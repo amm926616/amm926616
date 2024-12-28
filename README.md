@@ -31,7 +31,7 @@ Strengths
 
 ### Interests
 
-    🧩 Hobbies: Chess, solving Rubik's cubes, and tackling math problems.
+    🧩 Hobbies: Chess, solving Rubik's cubes, tackling math and science problems and over-thinking(not in a bad way but I can't live withouth a single thought in my head).
     🚀 Passions: Programming, exploring new ideas, and continuous learning.
 
 ### Work Experience
@@ -40,8 +40,8 @@ Strengths
     I favor an approach that emphasizes intellect and creativity, encouraging abstract thinking and the exploration of ideas with or without real-world examples.
     My teaching style focuses on delivering the underlying concepts first, inspiring kids to develop a deeper interest in math, science, and the beauty of these subjects.
     Many of the students I tutored became more passionate about these fields. I take pride in being the kind of teacher who instills curiosity and a love for learning. 
-    However, my approach requires active engagement—lazy students who don't want to think won't thrive under my guidance.    
-    💎 Jewelry Craftsmanship: Internship in jewelry design and 3D printing.
+    However, my approach requires active engagement. Lazy students who don't want to think won't thrive under my guidance.    
+    💎 Jewelry Craftsmanship: My dad is a gold smith. So, I grew up seeing the jewelry craftmanships. Since I understand how jewelry crafting and how a crafting project is done, I can also create my own piece of jewelry. I have experiences in jewelry 3D designing. 
     🏦 Banking: Worked in the Credit Product Management Department at KBZ Bank.
     🚢 Shipping & Customer Service: Hands-on experience in logistics and customer relations.
     💻 Typing: Average speed of 60 WPM in both English and Burmese.
