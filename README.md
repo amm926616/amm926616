@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux)
 
-Check out my personal project showcase on my portfolio site: [amm926616.github.io](https://amm926616.github.io/projects)
+Check out my personal project showcase on my portfolio site: [AMM's portfolio](https://portfolio-nextjs-one-chi.vercel.app)
 
 ### About Me
     🌏 Location: Myanmar
