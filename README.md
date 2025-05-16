@@ -23,6 +23,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![ArchLinux](https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=amm926616&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amm926616&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 Check out my personal project showcase on my portfolio site: [AMM's portfolio](https://portfolio-nextjs-one-chi.vercel.app)
 
 ### About Me
