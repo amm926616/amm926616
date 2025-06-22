@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amm926616&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-Check out my personal project showcase on my portfolio site: [AMM's portfolio](https://portfolio-nextjs-one-chi.vercel.app)
+Check out my personal project showcase on my portfolio site: [AMM's portfolio](https://aiden-the-one-porfolio.vercel.app/)
 
 ### About Me
     🌏 Location: Myanmar
